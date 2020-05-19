@@ -16,7 +16,6 @@
        "Description":"boqhma",
        "IconUrl":"......"
    }
-   ...
-   ..
+
 ]
 
