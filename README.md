@@ -8,13 +8,13 @@
 
    {
        "Name":"10 spins, 1 million coins",
-       "Description":"19/05/2020",
+       "Date":"19/05/2020",
        "urlIcon":"https://apps.facebook.com/coin-master/campaign=pe_INSFrgjnk_20200519"
    },
    
    {
        "Name":"25 spins",
-       "Description":"19/05/2020",
+       "Date":"19/05/2020",
        "urlIcon":"https://apps.facebook.com/coin-master/campaign=(_)s_QXrcwcN7ZaZgub97WQsBUzqNcoqnG3jorAlfy-tBM"
    }
   
