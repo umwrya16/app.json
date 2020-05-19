@@ -2,7 +2,7 @@
 
    {
        "Name":"kholadom",
-       "Description":"terhew",
+       "Description":"https://apps.facebook.com/coin-master/campaign=pe_FCBDEvkAN_20200519",
        "urlIcon":"https://apps.facebook.com/coin-master/campaign=pe_FCBDEvkAN_20200519"
    },
 
