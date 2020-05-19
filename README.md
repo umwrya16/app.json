@@ -2,7 +2,7 @@
 
    {
        "Name":"kholadom",
-       "Description":"https://apps.facebook.com/coin-master/campaign=pe_FCBDEvkAN_20200519",
+       "Description":"https://bit.ly/2W751eo",
        "urlIcon":"https://apps.facebook.com/coin-master/campaign=pe_FCBDEvkAN_20200519"
    },
 
