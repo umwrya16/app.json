@@ -19,7 +19,7 @@
        "Date":"19/05/2020",
        "AdActivate":"no",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=(_)s_QXrcwcN7ZaZgub97WQsBUzqNcoqnG3jorAlfy-tBM"
-   }
+   },
    {   
        "Name":"2 million coins",
        "Date":"19/05/2020",
