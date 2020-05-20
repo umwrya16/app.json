@@ -27,12 +27,6 @@
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBQbtxQF_20200519"
    },
    {   
-       "Name":"2 million coins",
-       "Date":"19/05/2020",
-       "AdActivate":"no",
-       "urlIcon":""
-   },
-   {   
        "Name":"Set Blast",
        "Date":"19/05/2020",
        "AdActivate":"no",
@@ -60,7 +54,7 @@
        "Name":"MORE TO COME",
        "Date":"19/05/2020",
        "AdActivate":"no",
-       "urlIcon":""
+       "urlIcon":"None"
    }
   
 ]
