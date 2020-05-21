@@ -100,8 +100,26 @@
        "Date":"18/05/2020",
        "AdActivate":"no",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBGABDJf_20200518"
-   }
+   },
+   {
+       "Name":"10 spins, 1 mil coin",
+       "Date":"17/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)we8R96YfBCtT5-_cqtAiJUJtVh6QlH6SLLc8-ozJ240&campaign=(_)we8R96YfBCtT5-_cqtAiJUJtVh6QlH6SLLc8-ozJ240&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
    
+  {
+       "Name":"50 spin, 100 mil coin",
+       "Date":"17/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBnINtwo_20200517"
+   },
+     {
+       "Name":"25 free spin",
+       "Date":"17/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBzNFIlM_20200517"
+   },
    
 ]
 
