@@ -119,7 +119,43 @@
        "Date":"17/05/2020",
        "AdActivate":"no",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBzNFIlM_20200517"
-   } 
+   },
+     {
+       "Name":"50 spin, 100 mil coin",
+       "Date":"17/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBnINtwo_20200517"
+   },
+   {
+       "Name":"25 free spin",
+       "Date":"17/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBzNFIlM_20200517"
+   },
+   {
+       "Name":"Vilage master",
+       "Date":"17/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_vm:30m_20200517"
+   },
+   {
+       "Name":"25 free spin",
+       "Date":"16/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBoTHjPy_20200516"
+   },
+   {
+       "Name":"10 spin, 1 million coin",
+       "Date":"1/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIvRrNjv_20200516"
+   },
+   {
+       "Name":"10 spins, 1 million coins",
+       "Date":"16/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBXENEqP_20200516"
+   }
    
 ]
 
