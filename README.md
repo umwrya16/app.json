@@ -119,7 +119,7 @@
        "Date":"17/05/2020",
        "AdActivate":"no",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBzNFIlM_20200517"
-   },
+   }
    
 ]
 
