@@ -1,6 +1,6 @@
 [
     {
-       "Name":"UPDATEING",
+       "Name":"10 spins",
        "Date":"22/05/2020",
        "AdActivate":"no",
        "urlIcon":"https://apps.facebook.com/coin-master/campaign=pe_FCBmrKSbb_20200522"
