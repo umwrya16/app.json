@@ -1,5 +1,11 @@
 [
     {
+       "Name":"10 spins, 10 million- new",
+       "Date":"22/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIYWUvnt_20200522"
+   },
+    {
        "Name":"Set Blast - NEW",
        "Date":"22/05/2020",
        "AdActivate":"no",
