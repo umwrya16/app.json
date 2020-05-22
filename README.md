@@ -1,5 +1,23 @@
 [
     {
+       "Name":"Set Blast - NEW",
+       "Date":"22/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_sb:30m_20200522"
+   },
+    {
+       "Name":"2 million coin -NEW",
+       "Date":"22/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSFljkZK_20200521"
+   },
+    {
+       "Name":"25 Spins - NEW",
+       "Date":"22/05/2020",
+       "AdActivate":"no",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBKLgxHX_20200522"
+   },
+    {
        "Name":"2 mil coin -21/05/2020",
        "Date":"21/05/2020",
        "AdActivate":"no",
