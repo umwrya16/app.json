@@ -173,43 +173,6 @@
        "Date":"16/05/2020",
        "AdActivate":"no",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBXENEqP_20200516"
-   },
-     {
-       "Name":"expired",
-       "Date":"17/05/2020",
-       "AdActivate":"no",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBnINtwo_20200517"
-   },
-   {
-       "Name":"expired",
-       "Date":"17/05/2020",
-       "AdActivate":"no",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBzNFIlM_20200517"
-   },
-   {
-       "Name":"expired",
-       "Date":"17/05/2020",
-       "AdActivate":"no",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_vm:30m_20200517"
-   },
-   {
-       "Name":"expired",
-       "Date":"16/05/2020",
-       "AdActivate":"no",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBoTHjPy_20200516"
-   },
-   {
-       "Name":"expired",
-       "Date":"1/05/2020",
-       "AdActivate":"no",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIvRrNjv_20200516"
-   },
-   {
-       "Name":"expired",
-       "Date":"16/05/2020",
-       "AdActivate":"no",
-       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBXENEqP_20200516"
    }
-   
 ]
 
