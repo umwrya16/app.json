@@ -1,30 +1,36 @@
 [
     {
-       "Name":"25 free spin ** NEW",
+       "Name":"Golden Card Trade ** NEW",
+       "Date":"22/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_gt:1h_20200523"
+   },
+    {
+       "Name":"25 free spin",
        "Date":"22/05/2020",
        "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBmrKSbb_20200522"
    },
     {
-       "Name":"10 spins, 10 million- new",
+       "Name":"10 spins, 10 million",
        "Date":"22/05/2020",
        "AdActivate":"no",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIYWUvnt_20200522"
    },
     {
-       "Name":"Set Blast - NEW",
+       "Name":"Set Blast",
        "Date":"22/05/2020",
        "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_sb:30m_20200522"
    },
     {
-       "Name":"2 million coin -NEW",
+       "Name":"2 million coin",
        "Date":"22/05/2020",
        "AdActivate":"no",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSFljkZK_20200521"
    },
     {
-       "Name":"25 Spins - NEW",
+       "Name":"25 Spins",
        "Date":"22/05/2020",
        "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBKLgxHX_20200522"
