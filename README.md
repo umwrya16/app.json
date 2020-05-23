@@ -1,5 +1,11 @@
 [
     {
+       "Name":"2 Million Coin ** NEW",
+       "Date":"23/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBknJAtH_20200523"
+   },
+    {
        "Name":"25 free spins ** NEW",
        "Date":"23/05/2020",
        "AdActivate":"yes",
