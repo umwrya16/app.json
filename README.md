@@ -1,7 +1,19 @@
 [
     {
+       "Name":"25 free spins ** NEW",
+       "Date":"23/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBeSKFvx_20200523"
+   },
+    {
+       "Name":"2 Million coin ** NEW",
+       "Date":"23/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)sg7fkdXPT4ZD8lFaT-EohkuN8esqH8v1U4qHkToE8fs&campaign=(_)sg7fkdXPT4ZD8lFaT-EohkuN8esqH8v1U4qHkToE8fs&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+    {
        "Name":"Golden Card Trade ** NEW",
-       "Date":"22/05/2020",
+       "Date":"23/05/2020",
        "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_gt:1h_20200523"
    },
