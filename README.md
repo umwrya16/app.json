@@ -1,4 +1,10 @@
 [
+ {
+       "Name":"25 spins- 24/05/2020",
+       "Date":"24/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIlgVbaU_20200524"
+   },
     {
        "Name":"10 spin, 1 mill- 24/05/2020",
        "Date":"24/05/2020",
