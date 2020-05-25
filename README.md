@@ -1,5 +1,11 @@
 [
    {
+       "Name":"2 million coin-- new",
+       "Date":"25/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_INSHVIsiK_20200525"
+   },
+   {
        "Name":"Golden card trade-- new",
        "Date":"25/05/2020",
        "AdActivate":"yes",
