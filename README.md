@@ -1,5 +1,11 @@
 [
    {
+       "Name":"25 spins-- new",
+       "Date":"27/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBOCLICa_20200527"
+   }, 
+   {
        "Name":"10 spin2 million-- new",
        "Date":"27/05/2020",
        "AdActivate":"yes",
