@@ -1,5 +1,17 @@
 [
   {
+       "Name":"25 spins",
+       "Date":"28/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBSOiEpn_20200528"
+   },
+  {
+       "Name":"2 million coin",
+       "Date":"28/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWINcJQjT_20200528"
+   },
+  {
        "Name" : "get our new app",
        "Date":"28/05/2020",
        "AdActivate":"yes",
