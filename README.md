@@ -1,5 +1,17 @@
 [
   {
+       "Name" : "25 spins",
+       "Date":"29/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)LUPKy8BayaQuRf9giNkwoRBGHD0cjMmAUg8Ub3gMo9g&campaign=(_)LUPKy8BayaQuRf9giNkwoRBGHD0cjMmAUg8Ub3gMo9g&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"set blast",
+       "Date":"29/05/2020",
+       "AdActivate":"yes",
+       "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_sb:30m_20200529"
+   },
+  {
        "Name":"25 spins",
        "Date":"28/05/2020",
        "AdActivate":"yes",
@@ -10,12 +22,6 @@
        "Date":"28/05/2020",
        "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWINcJQjT_20200528"
-   },
-  {
-       "Name" : "get our new app",
-       "Date":"28/05/2020",
-       "AdActivate":"yes",
-       "urlIcon":"https://play.google.com/store/apps/details?id=com.mambayez.CMTips"
    },
   {
        "Name":"25 spins-- new",
