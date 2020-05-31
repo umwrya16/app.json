@@ -1,13 +1,13 @@
 [
   {
        "Name":"2 Million Coin",
-       "Date":"30/05/2020",
+       "Date":"31/05/2020",
        "AdActivate":"yes",
        "urlIcon":"https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)DiH-Eh28n9XX6PLRioLx3C5MpWMKsZEmkj8QTw00_xc&campaign=(_)DiH-Eh28n9XX6PLRioLx3C5MpWMKsZEmkj8QTw00_xc&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
    },
   {
        "Name":"Village Master",
-       "Date":"30/05/2020",
+       "Date":"31/05/2020",
        "AdActivate":"yes",
        "urlIcon":"https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_vm:30m_20200531"
    },
