@@ -1,5 +1,11 @@
 [
   {
+       "Name":"25 SPINS *NEW",
+       "Date":"31/05/2020",
+       "AdActivate":"yes",
+       "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBVxomgH_20200531"
+   },
+  {
        "Name":"25 SPINS",
        "Date":"31/05/2020",
        "AdActivate":"yes",
