@@ -1,6 +1,18 @@
 [
   {
-       "Name":"25 SPINS -NEW",
+       "Name":"25 free spins",
+       "Date":"1/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)t-bfAT4kVaX5OdJtAMLJtKmt2IF53WisnMGMFMMxHj8&campaign=(_)t-bfAT4kVaX5OdJtAMLJtKmt2IF53WisnMGMFMMxHj8&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"2 Million coin",
+       "Date":"1/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBzUAhDx_20200601"
+   },
+  {
+       "Name":"25 SPINS",
        "Date":"31/05/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBVxomgH_20200531"
