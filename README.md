@@ -1,5 +1,11 @@
 [
   {
+       "Name":"2 Million Coin",
+       "Date":"2/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)cQDPwe35ORxmFL2jtx8H7bkxXQFVno3xcKDXyeRzYM0&campaign=(_)cQDPwe35ORxmFL2jtx8H7bkxXQFVno3xcKDXyeRzYM0&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
        "Name":"25 Spins - NEW",
        "Date":"1/06/2020",
        "AdActivate":"yes",
