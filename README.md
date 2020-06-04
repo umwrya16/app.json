@@ -1,6 +1,18 @@
 [
   {
        "Name":"25 spins",
+       "Date":"4/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBfZTcrH_20200604"
+   },
+  {
+       "Name":"10 spins - 1 million coin",
+       "Date":"4/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)ejaR8aBZDZMsx6kdtZsOly91yfKtOVT02nkWD_7hZ-k&campaign=(_)ejaR8aBZDZMsx6kdtZsOly91yfKtOVT02nkWD_7hZ-k&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"25 spins",
        "Date":"3/06/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBBSGnzg_20200603"
