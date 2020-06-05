@@ -1,6 +1,12 @@
 [
   {
-       "Name":"20 spins - 1 Million coin",
+       "Name":"25 free spins",
+       "Date":"5/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBVlNaHR_20200605"
+   },
+  {
+       "Name":"10 spins - 1 Million coin",
        "Date":"5/06/2020",
        "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBKnSIEi_20200605"
