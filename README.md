@@ -1,5 +1,29 @@
 [
   {
+       "Name":"20 spins - 1 Million coin",
+       "Date":"5/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBKnSIEi_20200605"
+   },
+  {
+       "Name":"10 spins- 1 million coin",
+       "Date":"5/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWImCSNps_20200605"
+   },
+  {
+       "Name":"2 Million Coin",
+       "Date":"5/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)Ihmquzf-fUHFjZ5q0WdrE7479SZbIk-tOqh_yLozTr4&campaign=(_)Ihmquzf-fUHFjZ5q0WdrE7479SZbIk-tOqh_yLozTr4&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"Ballon Frenzy",
+       "Date":"5/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_bl:30m_20200605"
+   },
+  {
        "Name":"25 spins",
        "Date":"4/06/2020",
        "AdActivate":"yes",
