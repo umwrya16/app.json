@@ -1,4 +1,22 @@
 [
+    {
+       "Name":"2 Million coin",
+       "Date":"6/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBmPIlQo_20200606"
+   },
+  {
+       "Name":"25 spins",
+       "Date":"6/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)w-DwMtKL-ncyiePVMQmyYV9CfZO5npcz51NMp-wwy7U&campaign=(_)w-DwMtKL-ncyiePVMQmyYV9CfZO5npcz51NMp-wwy7U&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"Village Master",
+       "Date":"6/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_vm:30m_20200606"
+   },
   {
        "Name":"2 Million coin",
        "Date":"6/06/2020",
