@@ -1,4 +1,10 @@
 [
+  {
+       "Name":"10 Spins - 1 million - New",
+       "Date":"8/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBxpxHzm_20200608"
+   },
  {
        "Name":"2 Million coin- New",
        "Date":"8/06/2020",
