@@ -1,5 +1,17 @@
 [
   {
+       "Name":"10 spins- 1million *NEW",
+       "Date":"11/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)rdcsb3RkeG5vQGLFgskIY0JaQX9stxsH9RxmehYiDuk&campaign=(_)rdcsb3RkeG5vQGLFgskIY0JaQX9stxsH9RxmehYiDuk&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"Golden Card trade *NEW",
+       "Date":"11/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_gt:1h_20200611"
+   },
+  {
        "Name":"25 Spins * New",
        "Date":"10/06/2020",
        "AdActivate":"yes",
