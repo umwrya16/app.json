@@ -7,9 +7,9 @@
    },
      {
        "Name":"15 spins *** NEW",
-       "Date":"1/06/2020",
+       "Date":"12/06/2020",
        "AdActivate":"yes",
-       "urlIcon" : "https:2//coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)ZFPA2Nsj-9TH3qC_E8BnDq4NSWYWi6ABxEhZEiE9xD8&campaign=(_)ZFPA2Nsj-9TH3qC_E8BnDq4NSWYWi6ABxEhZEiE9xD8&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)ZFPA2Nsj-9TH3qC_E8BnDq4NSWYWi6ABxEhZEiE9xD8&campaign=(_)ZFPA2Nsj-9TH3qC_E8BnDq4NSWYWi6ABxEhZEiE9xD8&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
    },
   {
        "Name":"25 spins",
