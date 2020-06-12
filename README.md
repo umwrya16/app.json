@@ -1,5 +1,11 @@
 [
   {
+       "Name":"40 spins-1 million *** NEW",
+       "Date":"12/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBTenMill_20200612"
+   },
+  {
        "Name":"25 spins *** NEW",
        "Date":"12/06/2020",
        "AdActivate":"yes",
