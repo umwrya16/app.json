@@ -1,5 +1,11 @@
 [
   {
+       "Name":"50 spins-30 Million***NEW",
+       "Date":"15/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBMillionT_20200615"
+   },
+  {
        "Name":"2 Million - NEW",
        "Date":"15/06/2020",
        "AdActivate":"yes",
