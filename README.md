@@ -3,6 +3,12 @@
        "Name":"25 spins ***NEW",
        "Date":"18/06/2020",
        "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBhEAqqe_20200618"
+   },
+  {
+       "Name":"25 spins ***NEW",
+       "Date":"18/06/2020",
+       "AdActivate":"yes",
        "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBXHqxHZ_20200618"
    },
 {
