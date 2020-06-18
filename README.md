@@ -1,4 +1,10 @@
 [
+{
+       "Name":"2 Million ***NEW",
+       "Date":"18/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)TUDN8RVxLghwopiYm1y5mPubWD6DN8xPPyHlKwKPmfQ&campaign=(_)TUDN8RVxLghwopiYm1y5mPubWD6DN8xPPyHlKwKPmfQ&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
   {
        "Name":"25 Spins ***NEW",
        "Date":"17/06/2020",
