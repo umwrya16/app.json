@@ -1,4 +1,22 @@
 [
+{
+       "Name":"1o spin-1 Million *New",
+       "Date":"21/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBJPxmjl_20200621"
+   },
+  {
+       "Name":"25 Spin *New",
+       "Date":"21/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://coinmaster.onelink.me/2792196939?pid=FB_PAGE&c=(_)OQYoy5gE0FyuCki_kTMOjuAWvhy15B35lwsmpskKj1c&campaign=(_)OQYoy5gE0FyuCki_kTMOjuAWvhy15B35lwsmpskKj1c&af_dp=coinmaster%3A%2F%2Fpromotions&af_deeplink=true&af_web_dp=https%3A%2F%2Fapps.facebook.com%2Fcoin-master%2F"
+   },
+  {
+       "Name":"25 Ballon Franzy *New",
+       "Date":"21/06/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=ev_bl:30m_20200621"
+   },
   {
        "Name":"25 spinsNEW",
        "Date":"20/06/2020",
