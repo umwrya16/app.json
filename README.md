@@ -1,5 +1,11 @@
 [
   {
+       "Name":"25 Spins **NEW",
+       "Date":"9/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_FCBcCPZlC_20200709"
+   },
+  {
        "Name":"10 Spins + 1 Miilion **NEW",
        "Date":"9/07/2020",
        "AdActivate":"yes",
