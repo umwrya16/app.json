@@ -1,5 +1,11 @@
 [
   {
+       "Name":"2 Millions ***NEW",
+       "Date":"11/07/2020",
+       "AdActivate":"yes",
+       "urlIcon" : "https://static.moonactive.net/static/coinmaster/reward/reward2.html?c=pe_TWIlByTjl_20200711"
+   },
+  {
        "Name":"25 Spins ***NEW",
        "Date":"11/07/2020",
        "AdActivate":"yes",
